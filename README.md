@@ -11,17 +11,17 @@ TensorTonic is a platform where you can implement core algorithms of Machine Lea
 This repository contains my personal solutions to these problems, automatically synchronized from the platform.
 
 <!-- tensortonic:start -->
-# Nikisha K's TensorTonic Solutions
+# Nikisha's TensorTonic Solutions
 
 Verified machine learning implementations completed on [TensorTonic](https://www.tensortonic.com).
 
 <p align="center">
-  <img src="https://www.tensortonic.com/api/badge/knikisha77.svg" alt="TensorTonic Verified Solutions" width="100%" />
+  <img src="https://www.tensortonic.com/api/badge/nikisha.svg" alt="TensorTonic Verified Solutions" width="100%" />
 </p>
 
 | Problem | Description | Link |
 |---|---|---|
-| Implement Sigmoid in NumPy | Implement a vectorized sigmoid activation in NumPy for scalars, lists, vectors, and matrices, including large positive and negative inputs. | https://www.tensortonic.com/problems/sigmoid-numpy |
+| Basic SELECT | Write a SQL SELECT query that aliases product names and calculates inventory value from unit price and stock quantity. | https://www.tensortonic.com/problems/sql-basic-select |
 
-View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/knikisha77)
+View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/nikisha)
 <!-- tensortonic:end -->
